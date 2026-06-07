@@ -1,4 +1,6 @@
-## Hi there 👋
+## 基于《诡秘之主》世界观的符咒系统模组，添加了多种一次性消耗的符咒物品。\n\
+这些符咒源自小说中的非凡能力体系，包括安魂符咒、尖啸符咒、梦境符咒等，每种符咒都具有独特的神秘效果。\n\
+玩家可以制作和使用这些符咒来获得各种超凡能力，体验诡秘世界的神秘力量。
 
 <!--
 **Rhien-C/Rhien-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
